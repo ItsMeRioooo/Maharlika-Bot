@@ -1,5 +1,5 @@
 {
-  "name": "Maharlika Bot",
+  "name": "Maharlika-Bot",
   "version": "1.0.0",
   "description": "A Discord bot with a command handler.",
   "main": "index.js",
